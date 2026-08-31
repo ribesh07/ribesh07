@@ -89,9 +89,8 @@ I'm particularly interested in **system design, distributed systems, microservic
 
 ## 🧑‍💻 Programming Languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
@@ -143,7 +142,7 @@ I'm particularly interested in **system design, distributed systems, microservic
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ribesh07&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ribesh07&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> -->
   <img src="https://streak-stats.demolab.com/?user=ribesh07&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
