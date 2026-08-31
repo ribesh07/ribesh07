@@ -127,13 +127,11 @@ I'm particularly interested in **system design, distributed systems, microservic
 # 🚧 Currently Learning & Exploring
 
 * Go for high-performance backend services
-* Concurrency, Goroutines & Channels
 * System Design & Distributed Systems
 * Kafka and event-driven architecture
 * Redis and caching strategies
 * Docker & containerized applications
 * AWS cloud architecture
-* Kubernetes
 * Advanced PostgreSQL
 * Scalable microservices
 
