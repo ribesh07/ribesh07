@@ -16,8 +16,8 @@ I'm particularly interested in **system design, distributed systems, microservic
 
 ## 🌐 Connect With Me
 
-[![Website](https://img.shields.io/badge/🌐%20Website-ribeshkumarsah.com.np-000000?style=for-the-badge)](https://ribeshkumarsah.com.np)
-[![Email](https://img.shields.io/badge/✉%20Email-ribeshkumarsah%40gmail.com-D14836?style=for-the-badge)](mailto:ribeshkumarsah@gmail.com)
+[![W](https://img.shields.io/badge/🌐%20-ribeshkumarsah.com.np-000000?style=for-the-badge)](https://ribeshkumarsah.com.np)
+[![E](https://img.shields.io/badge/✉%20-ribeshkumarsah%40gmail.com-D14836?style=for-the-badge)](mailto:ribeshkumarsah@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/rkraaz07)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_rkraaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ribeshkumarsah)
