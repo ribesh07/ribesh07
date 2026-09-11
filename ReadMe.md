@@ -16,12 +16,13 @@ I'm particularly interested in **system design, distributed systems, microservic
 
 ## 🌐 Connect With Me
 
-[![Web](https://img.shields.io/badge/🌐%20-ribeshkumarsah.com.np-000000?style=for-the-badge)](https://ribeshkumarsah.com.np)
-[![Email](https://img.shields.io/badge/📧️%20-ribeshkumarsah%40gmail.com-D14836?style=for-the-badge)](mailto:ribeshkumarsah@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/rkraaz07)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_rkraaz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ribeshkumarsah)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/@rkraaz07)
+[![Website](https://img.shields.io/badge/🌐%20Website-ribeshkumarsah.com.np-000000?style=for-the-badge)](https://ribeshkumarsah.com.np)
+[![Email](https://img.shields.io/badge/📧%20Email-ribeshkumarsah%40gmail.com-D14836?style=for-the-badge)](mailto:ribeshkumarsah@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/rkraaz07)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_rkraaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ribeshkumarsah)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/@rkraaz07)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ribesh07&label=Profile%20Views&color=FF0000&style=for-the-badge"/>
